@@ -1,0 +1,11 @@
+
+train: D:/RoadDamageDetector-master/RoadDamageDetector-master/train/new_train/images/test
+val: D:/RoadDamageDetector-master/RoadDamageDetector-master/train/new_train/images/val # val images (relative to 'path') 15062 images
+
+nc: 4
+# Classes
+names:
+  0: D00
+  1: D10
+  2: D20
+  3: D40
