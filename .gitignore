@@ -34,7 +34,8 @@ data/images/*
 !data/images/zidane.jpg
 !data/images/bus.jpg
 !data/*.sh
-!runs/train/exp3/weights/best.pt
+!runs/train/exp3/weights/best.pt.dvc
+
 results*.csv
 
 # Datasets -------------------------------------------------------------------------------------------------------------
