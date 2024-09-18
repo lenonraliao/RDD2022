@@ -34,7 +34,7 @@ data/images/*
 !data/images/zidane.jpg
 !data/images/bus.jpg
 !data/*.sh
-
+!runs/train/exp3/weights/best.pt
 results*.csv
 
 # Datasets -------------------------------------------------------------------------------------------------------------
@@ -256,3 +256,4 @@ com_crashlytics_export_strings.xml
 crashlytics.properties
 crashlytics-build.properties
 fabric.properties
+/road

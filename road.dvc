@@ -1,0 +1,6 @@
+outs:
+- md5: 190ff575cfc5f52e2167980bbe03746d.dir
+  size: 77483638
+  nfiles: 2144
+  hash: md5
+  path: road
