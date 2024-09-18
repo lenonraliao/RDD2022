@@ -24,9 +24,11 @@
 !cfg/yolov3*.cfg
 
 storage.googleapis.com
-
+!runs/train/exp3/weights/best.pt
 !runs/train/exp3/results.csv
+!runs/train/
 runs/*
+
 data/*
 data/images/*
 !data/*.yaml
